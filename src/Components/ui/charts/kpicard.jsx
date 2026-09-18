@@ -1,4 +1,4 @@
-import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
+import { Card, CardHeader, CardTitle, CardContent } from "@/Components/ui/card";
 import { TrendingUp, TrendingDown } from "lucide-react";
 
 export default function KpiCard({ title, value, change, icon: Icon }) {

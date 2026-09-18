@@ -8,7 +8,7 @@ import {
   SidebarMenuItem,
   SidebarMenuButton,
   SidebarHeader,
-} from "@/components/ui/sidebar";
+} from "@/Components/ui/sidebar";
 import { LayoutDashboard, Users, Settings, BarChart3 } from "lucide-react";
 
 const items = [
